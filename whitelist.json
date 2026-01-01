@@ -1,5 +1,7 @@
 {
-  "whitelist": [],
+  "whitelist": [
+    "TESTING_SERSER"
+  ],
   "users": [
     8883311362,
     10260972431
