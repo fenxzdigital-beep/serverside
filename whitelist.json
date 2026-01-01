@@ -2,10 +2,12 @@
   "whitelist": [
     "TESTING_SERSER",
     "REAL_ANDREAS1",
-    "AL_KULAWIK666"
+    "AL_KULAWIK666",
+    "firlygaisan1"
   ],
   "users": [
     8883311362,
     10260972431
-  ]
+  ],
+  "blacklisted": []
 }
